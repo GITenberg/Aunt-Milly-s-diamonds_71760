@@ -1,0 +1,29 @@
+_repo: Aunt-Milly-s-diamonds_71760
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lamb, Ruth
+    aliases:
+    - Buck, Ruth
+    - Lamb, Mrs. (Ruth)
+    - Lamb, Ruth Buck
+    birthdate: 1829
+    deathdate: 1916
+    gutenberg_agent_id: '55945'
+    url: http://www.gutenberg.org/2009/agents/55945
+description: ''
+gutenberg_issued: '2023-09-29'
+identifiers:
+  gutenberg: '71760'
+language: en
+pgterms:marc905: 20230925143543lamb
+pgterms:marc906: '1911'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bR. T. S., $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Aunt Milly's diamonds
+url: http://www.gutenberg.org/ebooks/71760
